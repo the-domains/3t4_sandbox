@@ -1,0 +1,28 @@
+name: 3t4_Sandbox
+favicon: null
+layout_spectrum: 0.04663210595026612
+typography_spectrum: 0.9608056445140392
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2399066782090813
+  lightness: 0.6375624309293926
+  saturation: 0.23644676711410284
+  rhythmicContrast: 0.09731024201028049
+purpose: []
